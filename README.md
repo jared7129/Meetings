@@ -7,7 +7,9 @@ In Order to run the application, do the following:
 
 ### Step 1
 
-clone the project locally
+clone the project locally :
+
+git clone https://github.com/jared7129/Meetings.git
 
 ### Step 2
 
